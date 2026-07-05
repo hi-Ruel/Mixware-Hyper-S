@@ -7,7 +7,7 @@ These are purely for my own machine, but feel free to modify and use to suit you
 
 ************** Changed Plans 2nd July 2026 **************
 
-**No longer using factory ribbon cable and now wiring up an Octopus Pro v1.1 with 2209 and sensorless homing etc**
+**No longer using factory ribbon cable and now wiring up an Octopus v1.1 with 2209 and sensorless homing etc**
 
 ************** Changed Plans 2nd July 2026 **************
 
